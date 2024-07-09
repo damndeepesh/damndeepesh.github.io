@@ -17,3 +17,5 @@ redirect_from:
 
 📽️ I am dedicated to creating innovative solutions to improve user experiences, demonstrated by deploying models on Streamlit and Amazon EC2.
 
+# Professional Experience
+
