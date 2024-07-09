@@ -19,3 +19,5 @@ redirect_from:
 
 # Professional Experience
 
+## Vernasoft Consultancy Private Limited, Banglore
+
