@@ -20,4 +20,12 @@ redirect_from:
 # Professional Experience
 
 ## Vernasoft Consultancy Private Limited, Banglore
+### Sept 2023 - Nov 2023
 
+🌐 Focused on blockchain development, particularly Ethereum, during my internship.
+
+🏦 Developed a robust banking system using ERC20 standards and OpenZeppelin.
+
+🚀 Successfully deployed the project on the Sepolia testnet.
+
+💼 Demonstrated proficiency in blockchain technology and its financial applications.
