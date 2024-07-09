@@ -17,15 +17,16 @@ redirect_from:
 
 📽️ I am dedicated to creating innovative solutions to improve user experiences, demonstrated by deploying models on Streamlit and Amazon EC2.
 
+
 # Professional Experience
 
-## Vernasoft Consultancy Private Limited, Banglore
-### Sept 2023 - Nov 2023
+## Vernasoft Consultancy Private Limited, Banglore                                                            (Sept 2023 - Nov 2023)
 
-🌐 Focused on blockchain development, particularly Ethereum, during my internship.
 
-🏦 Developed a robust banking system using ERC20 standards and OpenZeppelin.
+Focused on blockchain development, particularly Ethereum, during my internship.
 
-🚀 Successfully deployed the project on the Sepolia testnet.
+Developed a robust banking system using ERC20 standards and OpenZeppelin.
 
-💼 Demonstrated proficiency in blockchain technology and its financial applications.
+Successfully deployed the project on the Sepolia testnet.
+
+Demonstrated proficiency in blockchain technology and its financial applications.
